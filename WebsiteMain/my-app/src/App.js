@@ -3,6 +3,8 @@ import './index.css';
 import "@fontsource/odibee-sans";
 import gitlogo from './imgs/GitMark.svg';
 
+// Beginning Code
+
 //#region NAVBAR__CONTENT
 const NAVBAR__LOGIC = () => {
 
